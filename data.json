@@ -1,0 +1,132 @@
+[
+    {
+        "id": "62712413746623c6e372f49a",
+        "price": 3,
+        "floorrooms": 7
+    },
+    {
+        "id": "62712375b9240e5b08ac6752",
+        "price": 3,
+        "floorrooms": 4
+    },
+    {
+        "id": "627126bcd0b4a1a80263530e",
+        "price": 10,
+        "floorrooms": 25
+    },
+    {
+        "id": "62712dd8bdbb19a300c4ad22",
+        "price": 20,
+        "floorrooms": 7
+    },
+    {
+        "id": "62712f233a7b1ffc7581c241",
+        "price": 20,
+        "floorrooms": 5
+    },
+    {
+        "id": "62712faa060f2e683e22b4a2",
+        "price": 20,
+        "floorrooms": 5
+    },
+    {
+        "id": "62712ea498e86f00388ac890",
+        "price": 20,
+        "floorrooms": 5
+    },
+    {
+        "id": "62712dd8bdbb19a300c4ad20",
+        "price": 20,
+        "floorrooms": 5
+    },
+    {
+        "id": "62712d6f5e9c013310a88779",
+        "price": 20,
+        "floorrooms": 5
+    },
+    {
+        "id": "62712fc0ecc153f0d48fc1b9",
+        "price": 20,
+        "floorrooms": 5
+    },
+    {
+        "id": "62712e721432de8917582a9b",
+        "price": 20,
+        "floorrooms": 5
+    },
+    {
+        "id": "62712d6f5e9c013310a8877b",
+        "price": 30,
+        "floorrooms": 46
+    },
+    {
+        "id": "62712fc0ecc153f0d48fc1bb",
+        "price": 30,
+        "floorrooms": 16
+    },
+    {
+        "id": "62712d67f98fdaf89cfdcbf0",
+        "price": 30,
+        "floorrooms": 7
+    },
+    {
+        "id": "62712f233a7b1ffc7581c243",
+        "price": 30,
+        "floorrooms": 5
+    },
+    {
+        "id": "62712faa060f2e683e22b4a4",
+        "price": 30,
+        "floorrooms": 4
+    },
+    {
+        "id": "62712e4fe7f966b152ea3e81",
+        "price": 40,
+        "floorrooms": 30
+    },
+    {
+        "id": "62712dd8bdbb19a300c4ad1f",
+        "price": 40,
+        "floorrooms": 25
+    },
+    {
+        "id": "62712d6f5e9c013310a88778",
+        "price": 40,
+        "floorrooms": 20
+    },
+    {
+        "id": "62712c5a9bc5f8b813a5a5fe",
+        "price": 50,
+        "floorrooms": 12
+    },
+    {
+        "id": "62712faa060f2e683e22b4a5",
+        "price": 50,
+        "floorrooms": 12
+    },
+    {
+        "id": "62712d6f5e9c013310a8877c",
+        "price": 50,
+        "floorrooms": 12
+    },
+    {
+        "id": "62712dd8bdbb19a300c4ad23",
+        "price": 50,
+        "floorrooms": 12
+    },
+    {
+        "id": "62712f233a7b1ffc7581c244",
+        "price": 50,
+        "floorrooms": 12
+    },
+    {
+        "id": "62712d67f98fdaf89cfdcbf1",
+        "price": 50,
+        "floorrooms": 12
+    },
+    {
+        "id": "62712fc0ecc153f0d48fc1bc",
+        "price": 50,
+        "floorrooms": 12
+    }
+]
